@@ -8,7 +8,7 @@
 
 ## Presale
 
-* [Page 2](presale/page-2.md)
+* [Presale](https://www.pinksale.finance/)
 
 ## kyc
 
@@ -20,9 +20,9 @@
 
 ## Tokenomics
 
-* [Token BSE](tokenomics/token-bse.md)
-* [Distribution and Fees](tokenomics/distribution-and-fees.md)
-* [Roadmap](tokenomics/roadmap.md)
+* [🟧 Token BSE](tokenomics/token-bse.md)
+* [🟦 Team](tokenomics/team.md)
+* [🟧 Roadmap](tokenomics/roadmap.md)
 
 ## Disclamer
 
@@ -30,4 +30,4 @@
 
 ## Social Media
 
-* [Page 5](social-media/page-5.md)
+* [👶 Website](https://babyelonswap.io/)
