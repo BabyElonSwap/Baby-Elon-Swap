@@ -38,6 +38,16 @@
 
 * [🫂 Disclamer](disclamer/disclamer.md)
 
+***
+
+* [👥 Medium](https://medium.com/@babyElonSwap)
+
 ## Social Media
 
 * [👥 Website](https://babyelonswap.io/)
+* [👥 Telegram](https://t.me/babyelonswapann)
+* [👥 Twitter](https://twitter.com/BabyElonSwap)
+* [👥 Discord](https://discord.com/invite/AKS445xCfQ)
+* [👥 Linktree](https://linktr.ee/babyelonswap)
+* [👥 Youtube](https://www.youtube.com/channel/UC8IX0qXP2vpikp3fPsWqUjA)
+* [👥 Reddit](https://www.reddit.com/user/BabyElonSwap)
