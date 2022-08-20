@@ -1,10 +1,18 @@
 # Table of contents
 
-* [About Baby Elon](README.md)
+* [🗣 BabyElonSwap](README.md)
 
-## BabyELONSWAP
+## OVERVIEW
 
-* [Page 1](babyelonswap/page-1.md)
+* [Page 1](overview/page-1.md)
+* [Page 2](overview/page-2.md)
+* [Page 3](overview/page-3.md)
+* [Page 4](overview/page-4.md)
+* [Page 5](overview/page-5.md)
+* [Page 6](overview/page-6.md)
+* [Page 7](overview/page-7.md)
+* [Page 8](overview/page-8.md)
+* [Page 9](overview/page-9.md)
 
 ## Presale
 
