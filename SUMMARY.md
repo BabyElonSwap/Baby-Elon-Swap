@@ -4,15 +4,17 @@
 
 ## OVERVIEW
 
-* [Ecossysten](overview/ecossysten.md)
-* [Page 1](overview/page-1.md)
-* [Page 2](overview/page-2.md)
-* [Page 3](overview/page-3.md)
-* [Page 4](overview/page-4.md)
-* [Page 5](overview/page-5.md)
+* [Ecossysten](overview/page-6.md)
+* [NFT Marketplace](overview/nft-marketplace.md)
+* [This is Business](overview/this-is-business/README.md)
+  * [Proof Earns Trust](overview/this-is-business/proof-earns-trust.md)
+  * [Here For the People](overview/this-is-business/here-for-the-people.md)
+  * [Ethically Fair](overview/this-is-business/ethically-fair.md)
+  * [BES The People's Crypto.](overview/this-is-business/bes-the-peoples-crypto..md)
+* [How to Buy BSE?](overview/how-to-buy-bse.md)
 * [Transparency](overview/transparency.md)
 * [Community](overview/community.md)
-* [Longevity](overview/longevity.md)
+* [Longevity](overview/page-7.md)
 
 ## Presale
 
