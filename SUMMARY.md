@@ -18,7 +18,7 @@
 
 ## Presale
 
-* [Presale](https://www.pinksale.finance/)
+* [🪙 Presale](https://www.pinksale.finance/)
 
 ## kyc
 
@@ -38,10 +38,6 @@
 
 * [🫂 Disclamer](disclamer/disclamer.md)
 
-***
-
-* [👥 Medium](https://medium.com/@babyElonSwap)
-
 ## Social Media
 
 * [👥 Website](https://babyelonswap.io/)
@@ -51,3 +47,4 @@
 * [👥 Linktree](https://linktr.ee/babyelonswap)
 * [👥 Youtube](https://www.youtube.com/channel/UC8IX0qXP2vpikp3fPsWqUjA)
 * [👥 Reddit](https://www.reddit.com/user/BabyElonSwap)
+* [👥 Medium](https://medium.com/@babyElonSwap)
