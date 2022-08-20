@@ -11,8 +11,8 @@
 * [Page 5](overview/page-5.md)
 * [Page 6](overview/page-6.md)
 * [Page 7](overview/page-7.md)
-* [Page 8](overview/page-8.md)
-* [Page 9](overview/page-9.md)
+* [Community](overview/community.md)
+* [Transparency](overview/transparency.md)
 
 ## Presale
 
