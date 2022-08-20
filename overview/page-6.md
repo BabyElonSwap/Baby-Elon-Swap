@@ -21,4 +21,8 @@ coverY: 0
 
 :tada: Our largest project in the works is our NFT marketplace. We will allow users to create and buy/auction their own NFTs
 
+### BURN
+
+:tada: The BSE token is hyper-deflationary, so we adopted a strategy of repurchasing tokens after launch and burning them, bringing our investors a higher valuation
+
 ###
