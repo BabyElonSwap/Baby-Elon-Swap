@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/GITBOOK.jpg
 coverY: 0
 ---
 
-# 🟧 Token BSE
+# 👤 Token BES
 
 **Baby Elon has a total crypto-token supply of (1 Trillion).**\
 ****

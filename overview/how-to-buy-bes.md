@@ -6,7 +6,7 @@ cover: ../.gitbook/assets/GITBOOK.jpg
 coverY: 0
 ---
 
-# How to Buy BSE?
+# 🗣 How to Buy BES?
 
 ### 1. Download & setup MetaMask or TrustWallet <a href="#quiety-acco-874-0" id="quiety-acco-874-0"></a>
 

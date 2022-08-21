@@ -6,5 +6,5 @@ cover: ../../.gitbook/assets/GITBOOK.jpg
 coverY: 0
 ---
 
-# This is Business
+# 🗣 This is Business
 

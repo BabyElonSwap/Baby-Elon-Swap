@@ -11,7 +11,7 @@
   * [🔷 Here For the People](overview/this-is-business/here-for-the-people.md)
   * [🔷 Ethically Fair](overview/this-is-business/ethically-fair.md)
   * [🔷 BES The People's Crypto.](overview/this-is-business/bes-the-peoples-crypto..md)
-* [🗣 How to Buy BSE?](overview/how-to-buy-bse.md)
+* [🗣 How to Buy BES?](overview/how-to-buy-bes.md)
 * [🗣 Transparency](overview/transparency.md)
 * [🗣 Community](overview/community.md)
 * [🗣 Longevity](overview/page-7.md)
@@ -30,7 +30,7 @@
 
 ## Tokenomics
 
-* [👤 Token BSE](tokenomics/token-bse.md)
+* [👤 Token BES](tokenomics/token-bes.md)
 * [👥 Team](tokenomics/team.md)
 * [👤 Roadmap](tokenomics/roadmap.md)
 
