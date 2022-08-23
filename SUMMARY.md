@@ -45,6 +45,6 @@
 * [👥 Twitter](https://twitter.com/BabyElonSwap)
 * [👥 Discord](https://discord.com/invite/AKS445xCfQ)
 * [👥 Linktree](https://linktr.ee/babyelonswap)
-* [👥 Youtube](https://www.youtube.com/channel/UC8IX0qXP2vpikp3fPsWqUjA)
+* [👥 Youtube](https://www.youtube.com/channel/UCFUcQo6RZ\_etByDWx8nk8Kg)
 * [👥 Reddit](https://www.reddit.com/user/BabyElonSwap)
 * [👥 Medium](https://medium.com/@babyElonSwap)
